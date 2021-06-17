@@ -1,6 +1,6 @@
 # Flipkart JEDI 4 - Group 4 Project 
 
-This repo contains the UML diagrams for the WIP course management system project being constructed as a part of the JEDI Program for Flipkart Summer SWE Interns.
+This repo contains the Source code and UML diagrams for the WIP course management system project being constructed as a part of the JEDI Program for Flipkart Summer SWE Interns.
 
 ---
 ## Contributing Guidelines
